@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-## Creating issues
+## Creating issues
 
 Feature requests and bug reports should be made by using the [issue tracker](https://github.com/cachethq/Cachet/issues). Support questions should be directed to our support email; [support@alt-three.com](mailto:support@alt-three.com?subject=Cachet Support).
 
